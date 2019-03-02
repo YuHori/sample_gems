@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require 'sample_gems'
+
+puts SampleGems.bold(ARGV[0])
